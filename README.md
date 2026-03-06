@@ -1,3 +1,14 @@
+# ⚠️ ARCHIVED REPOSITORY ⚠️
+
+> **This repository is now archived and read-only.**
+>
+> For the latest examples and updates, please visit our new repository:
+>
+> # [👉 https://github.com/currents-dev/currents-examples](https://github.com/currents-dev/currents-examples/tree/main/cypress/netlify)
+
+---
+ 
+ 
  [![astro](https://user-images.githubusercontent.com/3611928/167888733-9bf21eda-d051-46f3-9184-12b14e21a10a.png)](https://ntl.fyi/3LZGn73)
 
 # Astro Quickstart Template   
